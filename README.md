@@ -1,62 +1,26 @@
-<h3 align="center">ENG:</h3>
+# CS:GO Cheat
 
-## Loader for nSkinz
+its csgo injector with in build cheat (Osiris) fully safe for main account with legit config 
 
-**nSkinz changes:**
-- Disabled auto-update
-- Variables changed
-- Added the latest skins and gloves
-- Obfuscation (VMProtect = user-mode + kerned-mode + virtualization)
+# How run it & how its work
 
-## Compiling
-
-**Compile as AnyCpu or Download from [Releases](https://github.com/EugeneSunrise/SkinChanger/releases/download/1.1/SkinChanger.rar).**
+its injector with vac bypass when u run cheat its auto bypass vac and inject cheat to csgo.exe.
+make sure ur game is running then run cheat.
+**Play Legit!**
+**if u want to get no any ban just use skin changer dont use any esp or aimbot!**
 
 
-## Using !!!VERY IMPORTANT!!!
 
-**Run SkinChanger.exe from the C:\Windows folder as administrator.**
+```mermaid
+graph LR
+A[cheat.exe] --> B((VaC Bypass))
+A --> C(Injector)
+B --> D{CS:GO}
+C --> D
+```
+# Some image of cheat
 
-## RECOMENDATION
-
-**If you don't want to get a VAC, then you need to do re-obfuscation original dll(folder OurDll) EVERY 2 WEEKS and compile this project.**
-
-## Skin Changer Config
-
-Config is in the game folder (nSkinz.json).
-
-
-## Credits
-ALL CREDITS TO [@namazso](https://github.com/namazso) ([nSKinz](https://github.com/namazso/nSkinz)).
+![cheat menu](https://i.imgur.com/f9dO6tf.png)
 
 
-<h3 align="center">RU:</h3>
-
-## Загрузчик для nSkinz
-
-**Изменения в nSkinz:**
-- Отключены авто-обновления
-- Изменены переменные
-- Добавлены последние скины и перчатки
-- Обфускация (VMProtect = user-mode + kerned-mode + virtualization)
-
-## Компиляция
-
-**Скомпилировать в AnyCpu или скачать из [Releases](https://github.com/EugeneSunrise/SkinChanger/releases/download/1.1/SkinChanger.rar).**
-
-
-## Использование !!!ОЧЕНЬ ВАЖНО!!!
-
-**Запускать SkinChanger.exe из папки C:\Windows от имени администратора.**
-
-## РЕКОМЕНДАЦИИ
-
-**Если не хотите получить ВАК, то надо КАЖДЫЕ 2 НЕДЕЛИ делать обфускацию оригинальной длл(Папка OurDll) и перекомпилировать этот проект.**
-
-## Skin Changer Конфиг
-
-Конфиг находится в папке с игрой (nSkinz.json).
-
-
-## Благодарность
-ИСХОДНИКИ [@namazso](https://github.com/namazso) ([nSKinz](https://github.com/namazso/nSkinz)).
+![Skin Changer](https://cdn.discordapp.com/attachments/1070297269133394022/1129107186669334648/image.png)
