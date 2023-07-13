@@ -1,0 +1,11 @@
+C:\Users\PicoShot\Documents\SkinChanger-master\SkinChanger\bin\Debug\SkinChanger.exe.config
+C:\Users\PicoShot\Documents\SkinChanger-master\SkinChanger\bin\Debug\SkinChanger.exe
+C:\Users\PicoShot\Documents\SkinChanger-master\SkinChanger\bin\Debug\SkinChanger.pdb
+C:\Users\PicoShot\Documents\SkinChanger-master\SkinChanger\obj\Debug\SkinChanger.csproj.AssemblyReference.cache
+C:\Users\PicoShot\Documents\SkinChanger-master\SkinChanger\obj\Debug\SkinChanger.csproj.SuggestedBindingRedirects.cache
+C:\Users\PicoShot\Documents\SkinChanger-master\SkinChanger\obj\Debug\SkinChanger.Properties.Resources.resources
+C:\Users\PicoShot\Documents\SkinChanger-master\SkinChanger\obj\Debug\SkinChanger.Skinz.resources
+C:\Users\PicoShot\Documents\SkinChanger-master\SkinChanger\obj\Debug\SkinChanger.csproj.GenerateResource.cache
+C:\Users\PicoShot\Documents\SkinChanger-master\SkinChanger\obj\Debug\SkinChanger.csproj.CoreCompileInputs.cache
+C:\Users\PicoShot\Documents\SkinChanger-master\SkinChanger\obj\Debug\SkinChanger.exe
+C:\Users\PicoShot\Documents\SkinChanger-master\SkinChanger\obj\Debug\SkinChanger.pdb
